@@ -11,15 +11,15 @@ Let’s our Recession Eye Ball will let us know what ,where ,when and How?
 ## Methodology
 We will be using varioues ML Algorithoms to predict the future of the recession.
 Algorithoms :
-	1 — Linear Discriminant Analysis. 
-	2 — Classification and Regression Trees.
-	3 — Naive Bayes. 
-	4 — K-Nearest Neighbors. 
-	5 — Learning Vector Quantization.  
-	6 — Support Vector Machines. 
-	7 — Bagging and Random Forest. 
-	8 — Boosting and AdaBoost.
-
+1 — Linear Discriminant Analysis. 
+2 — Classification and Regression Trees.
+3 — Naive Bayes. 
+4 — K-Nearest Neighbors. 
+5 — Learning Vector Quantization.  
+6 — Support Vector Machines. 
+7 — Bagging and Random Forest. 
+8 — Boosting and AdaBoost.
+	
 
 
 ## Data
